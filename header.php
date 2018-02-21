@@ -33,9 +33,9 @@
   	  </div>
     </div>
     <div id = "prestige"><a href="index.php"><h1>PRESTIGE</h1></a></div>
-    <div class = "dropdownPaste">
+    <div class = "dropdownSearch">
 	<button class="dropbtnSearch">?</button>
-	  <div id="myDropdown" class="dropdown-content">
+	  <div id="myDropdown" class="dropdown-contentSearch">
   	  <input type="text" name="fname">
 	</div>
     </div>
