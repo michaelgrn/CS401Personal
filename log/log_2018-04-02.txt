@@ -1,0 +1,26 @@
+2018-04-02 1:00:18 - DEBUG --> Established a database connection.
+2018-04-02 1:00:18 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy Meksavanh
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan Flowers
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor Crandall
+            [image] => taylor.png
+        )
+
+)
+

@@ -1,0 +1,3216 @@
+2018-04-01 1:59:03 - DEBUG --> Established a database connection.
+2018-04-01 1:59:03 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [name] => mojo jojo
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+)
+
+2018-04-01 1:59:05 - DEBUG --> Established a database connection.
+2018-04-01 1:59:05 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [name] => mojo jojo
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+)
+
+2018-04-01 2:01:34 - DEBUG --> Established a database connection.
+2018-04-01 2:01:34 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [name] => mojo jojo
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+)
+
+2018-04-01 2:12:56 - DEBUG --> Established a database connection.
+2018-04-01 2:12:56 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [name] => mojo jojo
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+)
+
+2018-04-01 3:18:26 - DEBUG --> Established a database connection.
+2018-04-01 3:18:26 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [name] => mojo jojo
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+)
+
+2018-04-01 3:31:54 - DEBUG --> Established a database connection.
+2018-04-01 3:31:54 - DEBUG --> saveRider name=[A] id=[4]
+2018-04-01 3:31:58 - DEBUG --> Established a database connection.
+2018-04-01 3:31:58 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [name] => mojo jojo
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+)
+
+2018-04-01 3:33:55 - DEBUG --> Established a database connection.
+2018-04-01 3:33:55 - DEBUG --> saveRider name=[R] id=[5]
+2018-04-01 3:33:59 - DEBUG --> Established a database connection.
+2018-04-01 3:33:59 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [name] => mojo jojo
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [name] => R
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+)
+
+2018-04-01 3:34:15 - DEBUG --> Established a database connection.
+2018-04-01 3:34:15 - DEBUG --> saveRider name=[Ron] id=[5]
+2018-04-01 3:35:15 - DEBUG --> Established a database connection.
+2018-04-01 3:35:15 - DEBUG --> saveRider name=[Ronny] id=[5]
+2018-04-01 3:47:56 - DEBUG --> Established a database connection.
+2018-04-01 3:47:56 - DEBUG --> saveRider name=[Ron Jon] id=[5]
+2018-04-01 3:57:59 - DEBUG --> Established a database connection.
+2018-04-01 3:57:59 - DEBUG --> saveRider name=[Ronny Jonny] id=[1]
+2018-04-01 3:58:04 - DEBUG --> Established a database connection.
+2018-04-01 3:58:04 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [name] => mojo jojo
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [name] => R
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+)
+
+2018-04-01 3:58:39 - DEBUG --> Established a database connection.
+2018-04-01 3:58:39 - DEBUG --> saveRider Array
+(
+    [0] => Array
+        (
+            [count(id)] => 5
+        )
+
+)
+
+2018-04-01 3:58:39 - DEBUG --> saveRider name=[Ron Oj] id=[1]
+2018-04-01 3:59:31 - DEBUG --> Established a database connection.
+2018-04-01 3:59:31 - DEBUG --> saveRider Array
+(
+    [0] => Array
+        (
+            [count(id)] => 5
+        )
+
+)
+
+2018-04-01 3:59:31 - DEBUG --> saveRider name=[Ron Jon] id=[1]
+2018-04-01 3:59:33 - DEBUG --> Established a database connection.
+2018-04-01 3:59:33 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [name] => mojo jojo
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [name] => R
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+)
+
+2018-04-01 4:01:42 - DEBUG --> Established a database connection.
+2018-04-01 4:01:42 - DEBUG --> saveRider Array
+(
+    [0] => Array
+        (
+            [count(id)] => 5
+        )
+
+)
+
+2018-04-01 4:01:42 - DEBUG --> saveRider Array
+(
+    [count(id)] => 5
+)
+
+2018-04-01 4:01:42 - DEBUG --> saveRider name=[New Test] id=[6]
+2018-04-01 4:02:09 - DEBUG --> Established a database connection.
+2018-04-01 4:02:09 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [name] => mojo jojo
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [name] => R
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [5] => Array
+        (
+            [id] => 6
+            [name] => New Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+)
+
+2018-04-01 4:02:18 - DEBUG --> Established a database connection.
+2018-04-01 4:02:18 - DEBUG --> saveRider Array
+(
+    [0] => Array
+        (
+            [count(id)] => 6
+        )
+
+)
+
+2018-04-01 4:02:18 - DEBUG --> saveRider Array
+(
+    [count(id)] => 6
+)
+
+2018-04-01 4:02:18 - DEBUG --> saveRider name=[Old Test] id=[7]
+2018-04-01 4:02:20 - DEBUG --> Established a database connection.
+2018-04-01 4:02:20 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [name] => mojo jojo
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [name] => R
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [5] => Array
+        (
+            [id] => 6
+            [name] => New Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [6] => Array
+        (
+            [id] => 7
+            [name] => Old Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+)
+
+2018-04-01 4:05:05 - DEBUG --> Established a database connection.
+2018-04-01 4:05:05 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [name] => mojo jojo
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [name] => R
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [5] => Array
+        (
+            [id] => 6
+            [name] => New Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [6] => Array
+        (
+            [id] => 7
+            [name] => Old Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+)
+
+2018-04-01 4:05:19 - DEBUG --> Established a database connection.
+2018-04-01 4:05:19 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [name] => mojo jojo
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [name] => R
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [5] => Array
+        (
+            [id] => 6
+            [name] => New Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [6] => Array
+        (
+            [id] => 7
+            [name] => Old Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+)
+
+2018-04-01 4:05:37 - DEBUG --> Established a database connection.
+2018-04-01 4:05:37 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [name] => mojo jojo
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [name] => R
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [5] => Array
+        (
+            [id] => 6
+            [name] => New Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [6] => Array
+        (
+            [id] => 7
+            [name] => Old Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+)
+
+2018-04-01 4:05:44 - DEBUG --> Established a database connection.
+2018-04-01 4:05:44 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [name] => mojo jojo
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [name] => R
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [5] => Array
+        (
+            [id] => 6
+            [name] => New Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [6] => Array
+        (
+            [id] => 7
+            [name] => Old Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+)
+
+2018-04-01 4:41:57 - DEBUG --> Established a database connection.
+2018-04-01 4:41:57 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [name] => mojo jojo
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [name] => R
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [5] => Array
+        (
+            [id] => 6
+            [name] => New Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [6] => Array
+        (
+            [id] => 7
+            [name] => Old Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+)
+
+2018-04-01 4:42:12 - DEBUG --> Established a database connection.
+2018-04-01 4:42:12 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [name] => mojo jojo
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [name] => R
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [5] => Array
+        (
+            [id] => 6
+            [name] => New Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [6] => Array
+        (
+            [id] => 7
+            [name] => Old Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+)
+
+2018-04-01 5:05:23 - DEBUG --> Established a database connection.
+2018-04-01 5:05:23 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [name] => mojo jojo
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [name] => R
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [5] => Array
+        (
+            [id] => 6
+            [name] => New Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [6] => Array
+        (
+            [id] => 7
+            [name] => Old Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+)
+
+2018-04-01 5:07:23 - DEBUG --> Established a database connection.
+2018-04-01 5:07:23 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [name] => mojo jojo
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [name] => R
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [5] => Array
+        (
+            [id] => 6
+            [name] => New Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [6] => Array
+        (
+            [id] => 7
+            [name] => Old Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+)
+
+2018-04-01 5:22:03 - DEBUG --> Established a database connection.
+2018-04-01 5:22:03 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [name] => mojo jojo
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [name] => R
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [5] => Array
+        (
+            [id] => 6
+            [name] => New Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [6] => Array
+        (
+            [id] => 7
+            [name] => Old Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+)
+
+2018-04-01 5:22:19 - DEBUG --> Established a database connection.
+2018-04-01 5:22:19 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [name] => mojo jojo
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [name] => R
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [5] => Array
+        (
+            [id] => 6
+            [name] => New Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [6] => Array
+        (
+            [id] => 7
+            [name] => Old Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+)
+
+2018-04-01 5:23:42 - DEBUG --> Established a database connection.
+2018-04-01 5:23:42 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [name] => mojo jojo
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [name] => R
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [5] => Array
+        (
+            [id] => 6
+            [name] => New Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [6] => Array
+        (
+            [id] => 7
+            [name] => Old Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+)
+
+2018-04-01 5:25:10 - DEBUG --> Established a database connection.
+2018-04-01 5:25:10 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [name] => mojo jojo
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [name] => R
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [5] => Array
+        (
+            [id] => 6
+            [name] => New Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [6] => Array
+        (
+            [id] => 7
+            [name] => Old Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+)
+
+2018-04-01 5:25:27 - DEBUG --> Established a database connection.
+2018-04-01 5:25:27 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [name] => mojo jojo
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [name] => R
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [5] => Array
+        (
+            [id] => 6
+            [name] => New Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [6] => Array
+        (
+            [id] => 7
+            [name] => Old Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+)
+
+2018-04-01 5:25:30 - DEBUG --> Established a database connection.
+2018-04-01 5:25:30 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [name] => mojo jojo
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [name] => R
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [5] => Array
+        (
+            [id] => 6
+            [name] => New Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [6] => Array
+        (
+            [id] => 7
+            [name] => Old Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+)
+
+2018-04-01 5:26:59 - DEBUG --> Established a database connection.
+2018-04-01 5:26:59 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [name] => mojo jojo
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [name] => R
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [5] => Array
+        (
+            [id] => 6
+            [name] => New Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [6] => Array
+        (
+            [id] => 7
+            [name] => Old Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+)
+
+2018-04-01 5:27:06 - DEBUG --> Established a database connection.
+2018-04-01 5:27:06 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [name] => mojo jojo
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [name] => R
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [5] => Array
+        (
+            [id] => 6
+            [name] => New Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [6] => Array
+        (
+            [id] => 7
+            [name] => Old Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+)
+
+2018-04-01 5:27:15 - DEBUG --> Established a database connection.
+2018-04-01 5:27:15 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [name] => mojo jojo
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [name] => R
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [5] => Array
+        (
+            [id] => 6
+            [name] => New Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [6] => Array
+        (
+            [id] => 7
+            [name] => Old Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+)
+
+2018-04-01 5:27:52 - DEBUG --> Established a database connection.
+2018-04-01 5:27:52 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [name] => mojo jojo
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [name] => R
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [5] => Array
+        (
+            [id] => 6
+            [name] => New Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [6] => Array
+        (
+            [id] => 7
+            [name] => Old Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+)
+
+2018-04-01 5:28:15 - DEBUG --> Established a database connection.
+2018-04-01 5:28:15 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [name] => mojo jojo
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [name] => R
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [5] => Array
+        (
+            [id] => 6
+            [name] => New Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [6] => Array
+        (
+            [id] => 7
+            [name] => Old Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+)
+
+2018-04-01 5:28:28 - DEBUG --> Established a database connection.
+2018-04-01 5:28:28 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [name] => mojo jojo
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [name] => R
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [5] => Array
+        (
+            [id] => 6
+            [name] => New Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [6] => Array
+        (
+            [id] => 7
+            [name] => Old Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+)
+
+2018-04-01 5:28:33 - DEBUG --> Established a database connection.
+2018-04-01 5:28:33 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [name] => mojo jojo
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [name] => R
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [5] => Array
+        (
+            [id] => 6
+            [name] => New Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [6] => Array
+        (
+            [id] => 7
+            [name] => Old Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+)
+
+2018-04-01 5:28:41 - DEBUG --> Established a database connection.
+2018-04-01 5:28:41 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [name] => mojo jojo
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [name] => R
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [5] => Array
+        (
+            [id] => 6
+            [name] => New Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [6] => Array
+        (
+            [id] => 7
+            [name] => Old Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+)
+
+2018-04-01 19:04:51 - DEBUG --> Established a database connection.
+2018-04-01 19:04:51 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [name] => mojo jojo
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [name] => R
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [5] => Array
+        (
+            [id] => 6
+            [name] => New Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [6] => Array
+        (
+            [id] => 7
+            [name] => Old Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+)
+
+2018-04-01 19:10:56 - DEBUG --> Established a database connection.
+2018-04-01 19:10:56 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [name] => mojo jojo
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [name] => R
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [5] => Array
+        (
+            [id] => 6
+            [name] => New Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [6] => Array
+        (
+            [id] => 7
+            [name] => Old Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+)
+
+2018-04-01 19:18:08 - DEBUG --> Established a database connection.
+2018-04-01 19:18:08 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [name] => mojo jojo
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [name] => R
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [5] => Array
+        (
+            [id] => 6
+            [name] => New Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [6] => Array
+        (
+            [id] => 7
+            [name] => Old Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+)
+
+2018-04-01 19:18:28 - DEBUG --> Established a database connection.
+2018-04-01 19:18:28 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [name] => mojo jojo
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [name] => R
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [5] => Array
+        (
+            [id] => 6
+            [name] => New Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [6] => Array
+        (
+            [id] => 7
+            [name] => Old Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+)
+
+2018-04-01 19:29:56 - DEBUG --> Established a database connection.
+2018-04-01 19:29:56 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [name] => mojo jojo
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [name] => R
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [5] => Array
+        (
+            [id] => 6
+            [name] => New Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [6] => Array
+        (
+            [id] => 7
+            [name] => Old Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+)
+
+2018-04-01 19:30:23 - DEBUG --> Established a database connection.
+2018-04-01 19:30:23 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [name] => mojo jojo
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [name] => R
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [5] => Array
+        (
+            [id] => 6
+            [name] => New Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [6] => Array
+        (
+            [id] => 7
+            [name] => Old Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+)
+
+2018-04-01 19:30:51 - DEBUG --> Established a database connection.
+2018-04-01 19:30:51 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [name] => mojo jojo
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [name] => R
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [5] => Array
+        (
+            [id] => 6
+            [name] => New Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [6] => Array
+        (
+            [id] => 7
+            [name] => Old Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+)
+
+2018-04-01 19:31:00 - DEBUG --> Established a database connection.
+2018-04-01 19:31:00 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [name] => mojo jojo
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [name] => R
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [5] => Array
+        (
+            [id] => 6
+            [name] => New Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [6] => Array
+        (
+            [id] => 7
+            [name] => Old Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+)
+
+2018-04-01 19:31:07 - DEBUG --> Established a database connection.
+2018-04-01 19:31:07 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [name] => mojo jojo
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [name] => R
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [5] => Array
+        (
+            [id] => 6
+            [name] => New Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [6] => Array
+        (
+            [id] => 7
+            [name] => Old Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+)
+
+2018-04-01 19:31:17 - DEBUG --> Established a database connection.
+2018-04-01 19:31:17 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [name] => mojo jojo
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [name] => R
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [5] => Array
+        (
+            [id] => 6
+            [name] => New Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [6] => Array
+        (
+            [id] => 7
+            [name] => Old Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+)
+
+2018-04-01 19:31:32 - DEBUG --> Established a database connection.
+2018-04-01 19:31:32 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [name] => mojo jojo
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [name] => R
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [5] => Array
+        (
+            [id] => 6
+            [name] => New Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [6] => Array
+        (
+            [id] => 7
+            [name] => Old Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+)
+
+2018-04-01 19:31:48 - DEBUG --> Established a database connection.
+2018-04-01 19:31:48 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [name] => mojo jojo
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [name] => R
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [5] => Array
+        (
+            [id] => 6
+            [name] => New Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [6] => Array
+        (
+            [id] => 7
+            [name] => Old Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+)
+
+2018-04-01 19:31:57 - DEBUG --> Established a database connection.
+2018-04-01 19:31:57 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [name] => mojo jojo
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [name] => R
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [5] => Array
+        (
+            [id] => 6
+            [name] => New Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [6] => Array
+        (
+            [id] => 7
+            [name] => Old Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+)
+
+2018-04-01 19:40:56 - DEBUG --> Established a database connection.
+2018-04-01 19:40:56 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [name] => mojo jojo
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [name] => R
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [5] => Array
+        (
+            [id] => 6
+            [name] => New Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [6] => Array
+        (
+            [id] => 7
+            [name] => Old Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+)
+
+2018-04-01 19:41:15 - DEBUG --> Established a database connection.
+2018-04-01 19:41:15 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [name] => mojo jojo
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [name] => R
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [5] => Array
+        (
+            [id] => 6
+            [name] => New Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [6] => Array
+        (
+            [id] => 7
+            [name] => Old Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+)
+
+2018-04-01 19:43:57 - DEBUG --> Established a database connection.
+2018-04-01 19:43:57 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [name] => mojo jojo
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [name] => R
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [5] => Array
+        (
+            [id] => 6
+            [name] => New Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [6] => Array
+        (
+            [id] => 7
+            [name] => Old Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+)
+
+2018-04-01 19:43:59 - DEBUG --> Established a database connection.
+2018-04-01 19:43:59 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [name] => mojo jojo
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [name] => R
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [5] => Array
+        (
+            [id] => 6
+            [name] => New Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [6] => Array
+        (
+            [id] => 7
+            [name] => Old Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+)
+
+2018-04-01 19:44:01 - DEBUG --> Established a database connection.
+2018-04-01 19:44:01 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [name] => mojo jojo
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [name] => R
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [5] => Array
+        (
+            [id] => 6
+            [name] => New Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [6] => Array
+        (
+            [id] => 7
+            [name] => Old Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+)
+
+2018-04-01 19:44:02 - DEBUG --> Established a database connection.
+2018-04-01 19:44:02 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [name] => mojo jojo
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [name] => R
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [5] => Array
+        (
+            [id] => 6
+            [name] => New Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [6] => Array
+        (
+            [id] => 7
+            [name] => Old Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+)
+
+2018-04-01 19:44:13 - DEBUG --> Established a database connection.
+2018-04-01 19:44:13 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [name] => mojo jojo
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [name] => R
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [5] => Array
+        (
+            [id] => 6
+            [name] => New Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [6] => Array
+        (
+            [id] => 7
+            [name] => Old Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+)
+
+2018-04-01 19:44:22 - DEBUG --> Established a database connection.
+2018-04-01 19:44:22 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [name] => mojo jojo
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [name] => R
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [5] => Array
+        (
+            [id] => 6
+            [name] => New Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [6] => Array
+        (
+            [id] => 7
+            [name] => Old Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+)
+
+2018-04-01 19:44:31 - DEBUG --> Established a database connection.
+2018-04-01 19:44:31 - DEBUG --> Established a database connection.
+2018-04-01 19:44:31 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [name] => mojo jojo
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [name] => R
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [5] => Array
+        (
+            [id] => 6
+            [name] => New Test
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+)
+
+2018-04-01 19:44:33 - DEBUG --> Established a database connection.
+2018-04-01 19:44:33 - DEBUG --> Established a database connection.
+2018-04-01 19:44:33 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [name] => mojo jojo
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [name] => R
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+)
+
+2018-04-01 19:51:36 - DEBUG --> Established a database connection.
+2018-04-01 19:51:36 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [name] => mojo jojo
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [name] => R
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+)
+
+2018-04-01 19:52:42 - DEBUG --> Established a database connection.
+2018-04-01 19:52:42 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [name] => mojo jojo
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [name] => R
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+)
+
+2018-04-01 19:53:24 - DEBUG --> Established a database connection.
+2018-04-01 19:53:24 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [name] => mojo jojo
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [name] => R
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+)
+
+2018-04-01 19:53:35 - DEBUG --> Established a database connection.
+2018-04-01 19:53:35 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [name] => mojo jojo
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [name] => R
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+)
+
+2018-04-01 19:53:44 - DEBUG --> Established a database connection.
+2018-04-01 19:53:44 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [name] => mojo jojo
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [name] => R
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+)
+
+2018-04-01 20:10:07 - DEBUG --> Established a database connection.
+2018-04-01 20:10:07 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [name] => mojo jojo
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [name] => R
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+)
+
+2018-04-01 20:12:20 - DEBUG --> Established a database connection.
+2018-04-01 20:12:20 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [name] => mojo jojo
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [name] => R
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+)
+
+2018-04-01 20:12:40 - DEBUG --> Established a database connection.
+2018-04-01 20:12:40 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [name] => mojo jojo
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [name] => R
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+)
+

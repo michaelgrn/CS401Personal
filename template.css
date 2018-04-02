@@ -5,6 +5,10 @@ h1 {
    color: white;
 }
 
+h3 {
+    font-size:100px;
+}
+
 #mainText{
    font-size:75px;
    font-weight:0;
@@ -31,8 +35,16 @@ div{
   background-color: black;
 }
 
+#newdiv{
+  height:20px;
+  width:0px;
+  text-align:left;
+  line-height: 0px;
+  float:relative;
+}
 
 #footer{
+  bottom:10;
   font-weight:10;
   height:20px;
   width:33%;
@@ -60,8 +72,41 @@ span{
   background-color:black;
   text-align: right;
 }
+
+#login{
+  height: 200px;
+  display: inline-block;
+  width: 30%;
+  margin: 20% 40%;
+  text-align:left;
+  float:center;
+  background-color:white;
+
+}
+
+#team{
+  height: 150px;
+  width: 150px;
+  display: inline-block;
+  margin: 10 10;
+  padding: 15 15;
+  text-align:left;
+  float:center;
+  background-color:white;
+}
+
+#delete{
+  text-align: center;
+}
+
+a:deleteLink{
+  text-decoration: none;
+}
+
+
 a:link {
     color: black;
+    text-decoration: none;
 }
 
 /* visited link */
@@ -71,7 +116,7 @@ a:visited {
 
 /* mouse over link */
 a:hover {
-    color: black;
+    color: grey;
 }
 
 /* selected link */
@@ -104,6 +149,30 @@ a:active {
   vertical-align: middle;
   position: relative;
   display: inline-block;
+}
+
+#container {
+  min-height: 100%;
+  width:100%;
+  float:left;
+  height:110%;
+
+}
+
+.message {
+  color:#FFFFFF;
+  height: 20px;
+  width: 50%;
+}
+
+.bad {
+  background-color: red;
+  width: 100%;
+}
+
+.good {
+  color:#FFFFFF;
+  background-color:#228B22;
 }
  /* Dropdown Button */
 .dropbtn {

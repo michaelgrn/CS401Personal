@@ -1,3 +1,6 @@
+<?php
+session_start();
+?>
 <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
 <link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
 <link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
@@ -25,19 +28,15 @@
     <div class = "dropdown">
 	<button class="dropbtn">+</button>
 	  <div id="myDropdown" class="dropdown-content">
-  	    <a href="product.php">Product</a>
 	    <a href="team.php">Team</a>
-	    <a href="blog.php">Blog</a>
+  	  <a href="product.php">Product</a>
 	    <a href="insta.php">Insta</a>
 	    <a href="about.php">About</a>
+      <a href="loginpage.php">Login</a>
   	  </div>
     </div>
     <div id = "prestige"><a href="index.php"><h1>PRESTIGE</h1></a></div>
-    <div class = "dropdownSearch">
-	<button class="dropbtnSearch">?</button>
-	  <div id="myDropdown" class="dropdown-contentSearch">
-  	  <input type="text" name="fname">
-	</div>
+
     </div>
 
     </div>

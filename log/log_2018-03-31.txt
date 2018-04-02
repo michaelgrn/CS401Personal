@@ -1,0 +1,706 @@
+2018-03-31 4:02:08 - DEBUG --> Established a database connection.
+2018-03-31 4:02:08 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+)
+
+2018-03-31 4:02:38 - DEBUG --> Established a database connection.
+2018-03-31 4:02:38 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+)
+
+2018-03-31 4:04:12 - DEBUG --> Established a database connection.
+2018-03-31 4:04:12 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+)
+
+2018-03-31 4:04:48 - DEBUG --> Established a database connection.
+2018-03-31 4:04:48 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+)
+
+2018-03-31 4:04:58 - DEBUG --> Established a database connection.
+2018-03-31 4:04:58 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+)
+
+2018-03-31 4:07:46 - DEBUG --> Established a database connection.
+2018-03-31 4:07:46 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+)
+
+2018-03-31 4:09:52 - DEBUG --> Established a database connection.
+2018-03-31 4:09:52 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+)
+
+2018-03-31 5:26:36 - DEBUG --> Established a database connection.
+2018-03-31 5:26:36 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+)
+
+2018-03-31 5:27:29 - DEBUG --> Established a database connection.
+2018-03-31 5:27:29 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+)
+
+2018-03-31 5:46:11 - DEBUG --> Established a database connection.
+2018-03-31 5:46:42 - DEBUG --> Established a database connection.
+2018-03-31 5:46:42 - DEBUG --> saveRider name=[Rider] comment=[]
+2018-03-31 5:46:42 - DEBUG --> Established a database connection.
+2018-03-31 5:46:42 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+)
+
+2018-03-31 5:46:48 - DEBUG --> Established a database connection.
+2018-03-31 5:46:48 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+)
+
+2018-03-31 5:47:41 - DEBUG --> Established a database connection.
+2018-03-31 5:47:41 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+)
+
+2018-03-31 5:50:30 - DEBUG --> Established a database connection.
+2018-03-31 5:50:30 - DEBUG --> saveRider name=[Rider] id=[2]
+2018-03-31 5:50:30 - DEBUG --> Established a database connection.
+2018-03-31 5:50:30 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+)
+
+2018-03-31 5:50:32 - DEBUG --> Established a database connection.
+2018-03-31 5:50:32 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+)
+
+2018-03-31 5:51:51 - DEBUG --> Established a database connection.
+2018-03-31 5:51:51 - DEBUG --> saveRider name=[Rider] id=[4]
+2018-03-31 5:51:51 - DEBUG --> Established a database connection.
+2018-03-31 5:51:51 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [name] => Rider
+            [image] => Screen Shot 2018-03-11 at 7.38.56 PM.png
+        )
+
+)
+
+2018-03-31 7:18:39 - DEBUG --> Established a database connection.
+2018-03-31 7:18:39 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+)
+
+2018-03-31 19:33:44 - DEBUG --> Established a database connection.
+2018-03-31 19:33:44 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+)
+
+2018-03-31 19:33:56 - DEBUG --> Established a database connection.
+2018-03-31 19:33:56 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+)
+
+2018-03-31 19:37:51 - DEBUG --> Established a database connection.
+2018-03-31 19:37:51 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+)
+
+2018-03-31 19:38:01 - DEBUG --> Established a database connection.
+2018-03-31 19:38:01 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+)
+
+2018-03-31 19:44:28 - DEBUG --> Established a database connection.
+2018-03-31 19:44:28 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+)
+
+2018-03-31 19:45:22 - DEBUG --> Established a database connection.
+2018-03-31 19:45:22 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+)
+
+2018-03-31 19:45:24 - DEBUG --> Established a database connection.
+2018-03-31 19:45:24 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+)
+
+2018-03-31 19:45:26 - DEBUG --> Established a database connection.
+2018-03-31 19:45:26 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+)
+
+2018-03-31 20:49:38 - DEBUG --> Established a database connection.
+2018-03-31 20:49:38 - DEBUG --> saveRider name=[mojo jojo] id=[4]
+2018-03-31 20:49:42 - DEBUG --> Established a database connection.
+2018-03-31 20:49:42 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [name] => mojo jojo
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+)
+
+2018-03-31 20:49:56 - DEBUG --> Established a database connection.
+2018-03-31 20:49:56 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor
+            [image] => taylor.png
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [name] => mojo jojo
+            [image] => Screen Shot 2018-02-20 at 1.21.19 PM.png
+        )
+
+)
+
