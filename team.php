@@ -19,7 +19,7 @@ require_once("header.php");
           print "</div>";
         }
     if ($_SESSION['validated']== true && $_SESSION['loggedin']== true) {
-        echo "<div id = 'team'><h3><a class = 'deleteLink' href = newrider.php><p id = 'teamAdd'>+</a></h3></div>";
+        echo "<div id = 'team2'><h3><a class = 'deleteLink' href = newrider.php><p id = 'teamAdd'>+</a></h3></div>";
     }
   ?>
   </div>

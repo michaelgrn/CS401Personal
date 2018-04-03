@@ -105,6 +105,17 @@ span{
   background-color:white;
 }
 
+#team2{
+  height: 150px;
+  width: 150px;
+  display: inline-block;
+  margin: 0 15;
+  text-align:left;
+  float:center;
+  background-color:white;
+}
+
+
 #delete{
   text-align: center;
 }
