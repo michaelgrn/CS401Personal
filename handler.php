@@ -4,8 +4,8 @@
   $dao = new Dao();
   #echo "<pre>" . print_r($_FILES, 1) . "</pre>";
   #exit;
-  $name = $_POST["name"];
-
+  $name = $_POST["riderName"];
+  $_SESSION['riderName'] = $_POST["riderName"];
   $_SESSION['presets'] = array($_POST);
 
   $valid = true;
@@ -39,8 +39,8 @@
   }
 
 
-  if((filesize($_FILES["fileToUpload"]["tmp_name"]) > (1024*150)) && $valid != false){
-    $messages[] = "FILE TOO BIG"
+  if((filesize($valid != false && $_FILES["fileToUpload"]["tmp_name"]) > (1024*150)) ){
+    $messages[] = "FILE TOO BIG";
     $messages[] = "MUST BE SMALLER THAN 150KB";
     $valid = false;
   }

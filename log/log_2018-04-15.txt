@@ -1,0 +1,182 @@
+2018-04-15 4:55:01 - DEBUG --> Established a database connection.
+2018-04-15 4:55:01 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy Meksavanh
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan Flowers
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor Crandall
+            [image] => taylor.png
+        )
+
+)
+
+2018-04-15 5:10:26 - DEBUG --> Established a database connection.
+2018-04-15 5:10:26 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy Meksavanh
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan Flowers
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor Crandall
+            [image] => taylor.png
+        )
+
+)
+
+2018-04-15 5:10:43 - DEBUG --> Established a database connection.
+2018-04-15 5:10:43 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy Meksavanh
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan Flowers
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor Crandall
+            [image] => taylor.png
+        )
+
+)
+
+2018-04-15 6:42:01 - DEBUG --> Established a database connection.
+2018-04-15 6:42:01 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy Meksavanh
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan Flowers
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor Crandall
+            [image] => taylor.png
+        )
+
+)
+
+2018-04-15 6:42:03 - DEBUG --> Established a database connection.
+2018-04-15 6:42:04 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy Meksavanh
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan Flowers
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor Crandall
+            [image] => taylor.png
+        )
+
+)
+
+2018-04-15 7:06:32 - DEBUG --> Established a database connection.
+2018-04-15 7:06:32 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy Meksavanh
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan Flowers
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor Crandall
+            [image] => taylor.png
+        )
+
+)
+
+2018-04-15 7:08:06 - DEBUG --> Established a database connection.
+2018-04-15 7:08:06 - DEBUG --> getRiders Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Eddy Meksavanh
+            [image] => ed.png
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Ryan Flowers
+            [image] => ryan.png
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name] => Taylor Crandall
+            [image] => taylor.png
+        )
+
+)
+

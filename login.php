@@ -1,8 +1,11 @@
 <?php
   session_start();
+  ob_start();
   $data = file("users.dat");
+  $salt = "garbo";
   $userName = $_POST["username"];
-  $passWord = $_POST["password"];
+  $prePassWord = $_POST["password"];
+  $passWord = md5($prePassWord.$salt);
   $validU = false;
   $validP = false;
   $valid = true;

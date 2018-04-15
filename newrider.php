@@ -10,7 +10,7 @@ require_once("header.php");
   <div id = "home">
     <div id = "login">
     <form action="handler.php" method="POST" enctype="multipart/form-data">
-     Name: <input value="<?php echo isset($_SESSION['name']) ? $_SESSION['name'] : ''; ?>" placeholder="Enter rider name here" type="text" id="name" name="name"></p>
+     Name: <input value="<?php echo isset($_SESSION['riderName']) ? $_SESSION['riderName'] : ''; ?>" placeholder="Enter rider name here" type="text" id="riderName" name="riderName"></p>
     <input type="file" name="fileToUpload" id="fileToUpload" value = "Select Image"></p>
     <input type="submit" value="Add Rider"></p>
     <?php
